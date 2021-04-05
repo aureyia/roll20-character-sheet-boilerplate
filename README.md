@@ -16,8 +16,13 @@
 - Replace all SHEET_NAMEs with the System/Sheet Name. Example: dungeons-and-dragons-3.5-edition.
 - Run the following commands from either the terminal or command line:
 ```bash
+// Go to the source for your sheet
 $ cd  /<path_to>/roll20-character-sheets/<sheet-name>/source
+
+// Install all of the npm packages
 $ npm install
+
+// Run the build process
 $ npm run gulp:watch
 ```
 This will create 2 files <sheet-name>.html and <sheet-name>.css. The watch command allows for any saved changes to automatically build the html and css from the pug and stylus files.
