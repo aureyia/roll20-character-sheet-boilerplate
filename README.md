@@ -12,7 +12,7 @@
 ## Setup
 - clone this repository
 - clone roll20-character-sheets
-- copy all files into the roll20-character-sheets directory, under a folder of the sheet name
+- copy all files into the roll20-character-sheets directory (aside from the `.git/` files), under a folder of the sheet name
 - Replace all SHEET_NAMEs with the System/Sheet Name. Example: dungeons-and-dragons-3.5-edition.
 - Run the following commands:
 ```bash
