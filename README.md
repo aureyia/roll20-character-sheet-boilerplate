@@ -16,7 +16,7 @@
 - Replace all SHEET_NAMEs with the System/Sheet Name. Example: dungeons-and-dragons-3.5-edition.
 - Run the following commands from either the terminal or command line:
 ```bash
-$ cd  /path_to/roll20-character-sheets/<sheet-name>/source
+$ cd  /<path_to>/roll20-character-sheets/<sheet-name>/source
 $ npm install
 $ npm run gulp:watch
 ```
