@@ -2,7 +2,7 @@
   "name": "example",
   "version": "2.1.0",
   "description": "Roll20 character sheet for the RPG example",
-  "main": "Ironsworn.html",
+  "main": "SHEET_NAME.html",
   "scripts": {
     "gulp:build":"gulp build",
     "gulp:watch":"gulp watch"
